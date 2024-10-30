@@ -1,0 +1,1 @@
+This project exists to show how data can be imported, cleansed, transformed, and visualized using Jupyter Notebook in conjuction with pandas, matplotlib, and seaborn. 
